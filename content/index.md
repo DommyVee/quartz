@@ -9,7 +9,7 @@ share: true
 
 # This is being built with 
 
-
+ 
 ## Obsidian.md
 ### Community Plugins
 #### Templater
