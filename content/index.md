@@ -3,7 +3,9 @@ dg-publish: true
 sticker: emoji//1f999
 share: true
 ---
-# Welcome motha fucka to the index on the llamawiki2.0
+Is this thing on?
+
+# Welcome to the index on the llamawiki2.0
 
 # New framework with cool features 
 
